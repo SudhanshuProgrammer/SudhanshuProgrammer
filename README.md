@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sudhanshu Kumar
 - 👀 I’m interested in Software Developement and Testing
-- 🌱 I’m currently learning Software Testing using Java Selenium , Playwright, JavaScript, Cypress
-- 💞️ I’m looking to collaborate on DEVOPS SDET Works
-- 📫 How to reach me - @sudhanshu.hire@gmail.com/
+- 🌱 I’m currently learning Software Testing using Java , Selenium , Playwright, JavaScript, Cypress
+- 💞️ I’m looking to collaborate on DEVOPS and SDET Works
+- 📫 How to reach me - sudhanshu.hire@gmail.com
 - 📞 Whatsapp - https://wa.me/6206169974
 
 
