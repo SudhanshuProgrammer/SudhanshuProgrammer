@@ -6,7 +6,7 @@
 - 📞 Whatsapp - https://wa.me/6206169974
 
 
-I am an experienced Software Engineer with a proven track record of enhancing infrastructure for internal teams through innovative tools and solutions. With over 4 years in application development, I have developed expertise in areas ranging from database management to UI design.
+I am an experienced Software Engineer with a proven track record of enhancing infrastructure for internal teams through innovative tools and solutions. With over 4+ years in application development and Testing as a Quality Assurance Engineer, I have developed expertise in areas ranging from database management to UI design.
 
 My professional journey has provided me with a solid foundation in system engineering principles, enabling effective collaboration with cross-functional teams to achieve significant results. I excel at analyzing complex technical challenges, identifying improvement opportunities, and implementing strategic solutions aligned with organizational goals.
 
