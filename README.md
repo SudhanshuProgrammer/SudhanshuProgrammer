@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on DEVOPS and SDET Works
 - 📫 How to reach me - sudhanshu.hire@gmail.com
 - 📞 Whatsapp - https://wa.me/6206169974
+- 📞 Call - +91 6206169974
 
 
 I am an experienced Software Engineer with a proven track record of enhancing infrastructure for internal teams through innovative tools and solutions. With over 4+ years in application development and Testing as a Quality Assurance Engineer, I have developed expertise in areas ranging from database management to UI design.
